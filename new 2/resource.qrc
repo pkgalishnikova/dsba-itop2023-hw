@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/rec"/>
+    <qresource prefix="/">
+        <file>img/open-folder.png</file>
+        <file>img/information.png</file>
+        <file>img/united-kingdom.png</file>
+        <file>img/russia.png</file>
+        <file>img/basketball-player.png</file>
+        <file>img/logout.png</file>
+    </qresource>
+    <qresource prefix="/new_ru.qm"/>
+</RCC>
